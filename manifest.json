@@ -1,0 +1,15 @@
+{
+  "name": "Diventare Pilota di Aerei",
+  "short_name": "Pilota",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a1a33",
+  "theme_color": "#0a1a33",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
